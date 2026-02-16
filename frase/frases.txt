@@ -2,5 +2,9 @@
 
 "Nunca pierdo. O gano o aprendo." Nelson Mandela
 
+<<<<<<< HEAD
 
 "Este examen es nuestro." David Rodriguez 
+=======
+"Vamos a aprobar." David RodriguezS
+>>>>>>> refs/remotes/origin/main
